@@ -151,6 +151,10 @@
         background-color: #a9a9a9;
       }
     }
+
+    &:last-child {
+      width: 100%;
+    }
   }
 
   @include breakpoint(large) {

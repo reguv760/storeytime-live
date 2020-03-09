@@ -1,7 +1,7 @@
 # Demo Links
 
-Live: [http://storeytime-live.netlify.com](http://storeytime.netlify.com)<br/>
-Admin: [http://storeytime-live.netlify.com/admin/](http://storeytime.netlify.com/admin/)
+Live: [http://storeytime-live.netlify.com](https://storeytime-live.netlify.com/)<br/>
+Admin: [http://storeytime-live.netlify.com/admin/](https://storeytime-live.netlify.com//admin/)
 
 _Notes to access Netlify CMS:_
 
